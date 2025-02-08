@@ -5,3 +5,18 @@ body {
     /* usando a variável global no bg */
     /* background-color: var(--variable-example); */
 }
+.hero{
+    background-image: url('../img/undraw_farming_ni77.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+   width: 100vw;
+
+    margin: auto;
+    margin-top: 60px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
