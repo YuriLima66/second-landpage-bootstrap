@@ -6,12 +6,13 @@ body {
     /* background-color: var(--variable-example); */
 }
 .hero{
-    background-image: url('../img/undraw_farming_ni77.png');
-    background-size: cover;
-    background-position: center;
+    background-image: url('../img/phone2.png');
+    background-size: contain;
+    background-position: right;
     background-repeat: no-repeat;
-    height: 100vh;
-   width: 100vw;
+    height: 80vh;       
+    
+
 
     margin: auto;
     margin-top: 60px;
